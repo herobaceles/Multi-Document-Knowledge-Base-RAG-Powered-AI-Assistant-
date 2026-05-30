@@ -113,3 +113,6 @@ multi-doc-rag/
 ├── vectorstore/
 ├── requirements.txt
 └── README.md
+## 🧠 RAG Architecture
+
+![RAG Diagram](assets/rag.png)
