@@ -115,4 +115,4 @@ multi-doc-rag/
 └── README.md
 ## 🧠 RAG Architecture
 
-![RAG Diagram](assets/rag.png)
+![RAG Diagram](assets/rag/rag.png)
